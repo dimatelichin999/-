@@ -12,7 +12,7 @@ class less18 {
         n = input.nextInt();
 
         for (i = 0 ; i <= n; i++){
-            System.out.println("5 *" + i + "=" + i * n);
+            System.out.println(n + "*" + i + "=" + i * n);
         }
 
     }
