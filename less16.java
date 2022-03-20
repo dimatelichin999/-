@@ -16,7 +16,7 @@ class less16 {
             sum += i;
 
         }
-        int x = sum / n;
+        double x = sum / n;
         System.out.println("Сума натуральних чисел" + n + "дорівнює:" + sum + "Середнє значення:" + x  );
 
     }
