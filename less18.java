@@ -7,7 +7,7 @@ class less18 {
             int i,n;
 
             Scanner input = new Scanner(System.in);
-            System.out.println("Введіть число:");
+            System .out.println("Введіть число:");
         n = input.nextInt();
 
         for (i = 0 ; i <= n; i++){
