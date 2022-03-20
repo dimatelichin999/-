@@ -3,7 +3,7 @@ class less20 {
     public static void main(String[] args)
     {
         int i,j,n;
-        System.out.print("Input number of rows : ");
+        System.out.print("Введіть число  : ");
         Scanner in = new Scanner(System.in);
         n = in.nextInt();
         for(i=1;i<=n;i++)
